@@ -1,0 +1,17 @@
+# Ignorar todos los archivos .exe
+*.exe
+
+# Ignorar todos los archivos de log
+*.log
+
+# Ignorar todos los archivos temporales
+*.tmp
+
+# Ignorar una carpeta completa
+/carpeta_que_no_quiero_subir/
+
+# Ignorar todos los archivos .dll
+*.dll
+
+# Ignorar archivos específicos por nombre
+archivo_que_no_quiero_subir.txt
